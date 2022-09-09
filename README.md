@@ -1,5 +1,4 @@
 @trevorbachand, CTO @ instinct environmental
-i suck at coding
 
 <!---
 trevorbachand/trevorbachand is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
